@@ -36,6 +36,8 @@ footer a {
 
 }
 
+
+
 @media (max-width: 768px) {
     div .card {
         max-width: 240px;
