@@ -1,0 +1,48 @@
+.jumbotron {
+    padding-top: 6rem;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    background-color: #c8f5fd;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+div .card {
+    margin: auto;
+
+}
+
+.container .about {
+    min-width: 350px;
+}
+
+div .card {
+    min-width: 240px;
+    margin: auto;
+}
+
+footer {
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    background-color: #52e5ff;
+}
+
+footer a {
+    font-weight: bold;
+
+}
+
+@media (max-width: 768px) {
+    div .card {
+        max-width: 240px;
+        margin: auto;
+    }
+
+    .container .about {
+        max-width: 350px;
+    }
+}
