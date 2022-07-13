@@ -1,9 +1,13 @@
+.navbar .container .collapse ul li a {
+    color: white;
+}
+
 .jumbotron {
     padding-top: 6rem;
     padding-bottom: 0;
     padding-left: 0;
     padding-right: 0;
-    background-color: #c8f5fd;
+    background-color: #b9b9b9;
 }
 
 section {
@@ -28,7 +32,7 @@ footer {
     height: 50px;
     line-height: 50px;
     text-align: center;
-    background-color: #52e5ff;
+    background-color: #494949;
 }
 
 footer a {
